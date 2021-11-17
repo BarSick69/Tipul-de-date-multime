@@ -37,5 +37,6 @@ print(b)
 print("intersectia a cu b: ",a.intersection(b))
 print("reuniunea a cu b",a.union(b))
 print("diferenta a cu b",a.difference(b))
+print("diferenta b cu a",b.difference(a))
      
 
